@@ -1,0 +1,11 @@
+﻿PathTracer.obj : error LNK2001: 无法解析的外部符号 "protected: void __thiscall tbb::task_group_context::init(void)" (?init@task_group_context@tbb@@IAEXXZ)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "public: bool __thiscall tbb::task_group_context::is_group_execution_cancelled(void)const " (?is_group_execution_cancelled@task_group_context@tbb@@QBE_NXZ)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall tbb::task_group_context::~task_group_context(void)" (??1task_group_context@tbb@@QAE@XZ)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "public: void __thiscall tbb::internal::allocate_root_with_context_proxy::free(class tbb::task &)const " (?free@allocate_root_with_context_proxy@internal@tbb@@QBEXAAVtask@3@@Z)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "public: class tbb::task & __thiscall tbb::internal::allocate_root_with_context_proxy::allocate(unsigned int)const " (?allocate@allocate_root_with_context_proxy@internal@tbb@@QBEAAVtask@3@I@Z)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "public: void __thiscall tbb::internal::allocate_continuation_proxy::free(class tbb::task &)const " (?free@allocate_continuation_proxy@internal@tbb@@QBEXAAVtask@3@@Z)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "public: class tbb::task & __thiscall tbb::internal::allocate_continuation_proxy::allocate(unsigned int)const " (?allocate@allocate_continuation_proxy@internal@tbb@@QBEAAVtask@3@I@Z)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "public: class tbb::task & __thiscall tbb::internal::allocate_child_proxy::allocate(unsigned int)const " (?allocate@allocate_child_proxy@internal@tbb@@QBEAAVtask@3@I@Z)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "unsigned int __cdecl tbb::internal::get_initial_auto_partitioner_divisor(void)" (?get_initial_auto_partitioner_divisor@internal@tbb@@YAIXZ)
+PathTracer.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __thiscall tbb::task::note_affinity(unsigned short)" (?note_affinity@task@tbb@@UAEXG@Z)
+C:\Users\黄瓜\source\repos\Assignment5\Release\Assignment5.exe : fatal error LNK1120: 10 个无法解析的外部命令
