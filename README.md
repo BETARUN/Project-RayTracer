@@ -19,5 +19,8 @@
 
 ## 渲染结果：
 
-![图片1](https://github.com/BETARUN/Project-RayTracer/blob/main/Assignment5/result.png)
+![图片1](https://github.com/BETARUN/Project-RayTracer/blob/main/demo/%E5%9B%BE%E7%89%871.png)
+![图片2](https://github.com/BETARUN/Project-RayTracer/blob/main/demo/%E5%9B%BE%E7%89%872.png)
+![图片3](https://github.com/BETARUN/Project-RayTracer/blob/main/demo/%E5%9B%BE%E7%89%873.png)
+
 
